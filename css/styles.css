@@ -1,0 +1,127 @@
+#title{
+    background-color: #ff4c68;
+
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.first{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: aliceblue;
+}
+.navbar{
+    margin-bottom: 30px;
+    border-radius: 2%;
+}
+.nav-item{
+    padding-left: 18px;
+    padding-right: 18px
+}
+.navbar-brand{
+    padding-left:10px;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 1.5rem;
+}
+.title-image{
+    padding-top: 20px;
+    width: 60%;
+    transform:rotate(30deg);
+}
+.download-btn{
+    margin: 5px;
+    padding:5px;
+}
+.feature-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+.feature-paragraph{
+    color: #8f8f8f;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+/* .row{
+    margin: 10px;
+    padding-left: 110px;
+    padding-top: 68px;
+    padding-bottom: 50px;
+} */
+#features{
+    padding: 7% 15%;
+}
+.col-lg-4{
+    text-align: center;
+}
+.icon{
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: red !important;
+}
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: whitesmoke;
+}
+.h2{
+    font-family: "Monsterrat";
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+}
+.testimonial-image{
+    width: 30%;
+    border-radius: 100%;
+    padding-top: 5%;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+    
+}
+.press-logo{
+    width: 15%;
+    margin: 1%;
+}
+#pricing{
+    padding: 100px 100px 50px;
+}
+.pricing{
+        padding-top: 20px;
+        padding-left: 2%;
+        padding-right: 2%;
+}
+.pr{
+    text-align: center;
+    font-family: "Monsterrat";  
+    font-size: 1.3rem;
+    line-height: 1.2rem;
+}
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    font-family: "Monsterrat";
+    padding-top: 2%;
+    font-size: 2.5rem;
+    padding-bottom: 3%;
+}
+.last-h3{
+    font-size: 3rem;
+    color: #fff;
+}
+#footer{
+    text-align: center;
+    padding: 3%;
+    font-size: 1.2rem;
+        color: #8f8f8f;
+}
+.ic{
+    padding: 1% 2%;
+    color: black;
+}
+.ic:hover{
+    color: #ff4c68 !important ;
+}
